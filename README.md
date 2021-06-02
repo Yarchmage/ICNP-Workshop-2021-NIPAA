@@ -9,8 +9,6 @@ New Internetworking Protocols, Architecture and Algorithms
 
 ###### Organized by IEEE ICNP 2021
 
-The 29th IEEE International Conference on Network Protocols
-
 **The CFP and submission details are hosted at EDAS.**
 
 [https://nipaa-21.edas.info/](https://nipaa-21.edas.info/)
