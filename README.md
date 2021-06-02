@@ -11,6 +11,10 @@ New Internetworking Protocols, Architecture and Algorithms
 
 The 29th IEEE International Conference on Network Protocols
 
+**The CFP and submission details are hosted at EDAS.**
+
+[https://nipaa-21.edas.info/](https://nipaa-21.edas.info/)
+
 * * *
 
 This is the second year of NIPAA workshop colocated with [IEEE-ICNP](https://icnp21.cs.ucr.edu/). Last year led to exiting talks that can be found [here](https://icnp20.cs.ucr.edu/nipaa.html).
