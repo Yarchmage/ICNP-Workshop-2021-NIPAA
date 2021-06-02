@@ -98,5 +98,22 @@ The NIPAA 21 Workshop honors and abides by all the policies laid out by ICNP - l
 
 All questions about submissions should be emailed to [NIPAA 21 General Chairs](mailto:kiranmak@gmail.com;%20sshen@uwaterloo.ca;%20yanshen@huawei.com).
 
+##### ICNP Conference Sponsors
+
+Gold  
+![](https://nipaa21.files.wordpress.com/2021/04/cisco-1.png)  
+[](https://www.cisco.com/)
+
+Silver  
+![](https://nipaa21.files.wordpress.com/2021/04/juniper-1.png)
+
+Silver  
+![](https://nipaa21.files.wordpress.com/2021/04/utdallas_logo_09_sm_w-1.png)
+
+**Supported By**
+
+![](https://nipaa21.files.wordpress.com/2021/04/ieee-cs_logotm-orange-1.png)
+
+![](https://icnp21.cs.ucr.edu/assets/img/icnp_logo.svg)
 
 IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our [Privacy Policy.](//www.ieee.org/about/help/security_privacy.html”)
