@@ -41,7 +41,7 @@ We invite novel ideas simulating a discussion on algorithms, architectures, and 
 
 Paper submission
 
-July 1, 2021
+<s>July 1, 2021</s>  July 10, 2021
 
 Paper acceptance notification
 
