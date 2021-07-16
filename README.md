@@ -55,13 +55,14 @@ Workshop date
 
 November 2, 2021
 
-##### Technical Program Committee (tbc)
+##### Technical Program Committee 
 
 *   Osamah Lutf Hamood Barakat (Siemens, Germany)
 *   Albert Cabellos (Universitat Politècnica de Catalunya, Spain)
 *   Zhe Chen (Huawei Technologies Co., Ltd, China)
 *   Stuart Clayman (UCL, UK)
 *   Roch H. Glitho (Concordia University, Canada)
+*   Yihao Jia (Huawei Technologies Co., Ltd, China)
 *   Ruidong Li (Kanazawa University, Japan)
 *   Jörg Liebeherr (University of Toronto, Canada)
 *   Yong Liu (New York University, USA)
