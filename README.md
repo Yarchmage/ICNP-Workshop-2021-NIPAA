@@ -17,6 +17,17 @@ New Internetworking Protocols, Architecture and Algorithms
 
 This is the second year of NIPAA workshop colocated with [IEEE-ICNP](https://icnp21.cs.ucr.edu/). Last year led to exiting talks that can be found [here](https://icnp20.cs.ucr.edu/nipaa.html).
 
+#### Program
+| Program      | Pacific Time    | CET    | Beijing Time  |  
+| ---------- | :-----------:  | :-----------: | :-----------: |
+| Opening     | 06:00     | 15:00    | 22:00|
+| Keynote #1     | 06:05     | 15:05    | 22:05|
+| Session #1 : 
+P1: MRPGA: A Genetic-Algorithm-Based In-Network Caching for Information-Centric Networking
+P2: OBF: A Guarantee IP Lookup Performance Scheme for Flexible IP Using One Bloom Filter
+P3: The Trapezoidal Sketch for Frequency Estimation in Network Flow     | 06:00     | 15:00    | 22:00|
+
+
 #### Rationale for the Workshop
 
 With the ongoing pandemic, the ICT infrastructure is changing from an optional tool to a necessity for many people. With large numbers of individuals now relying on the Internet to work from home, daily life, online education and entertainment, the significance of the Internet has unprecedentedly surged. As with the increasingly dependence of the Internet application, e.g., Augmented reality (AR) and Virtual Reality (VR) for entertainment, or video and audio streaming for working and education, the requirement on the Internet security, quality, and resilience increases continually.
