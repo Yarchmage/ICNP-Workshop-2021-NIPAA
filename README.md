@@ -22,10 +22,10 @@ This is the second year of NIPAA workshop colocated with [IEEE-ICNP](https://icn
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | Opening     | 06:00     | 15:00    | 22:00|
 | Keynote #1     | 06:05     | 15:05    | 22:05|
-| Session #1 : 
-P1: MRPGA: A Genetic-Algorithm-Based In-Network Caching for Information-Centric Networking
-P2: OBF: A Guarantee IP Lookup Performance Scheme for Flexible IP Using One Bloom Filter
-P3: The Trapezoidal Sketch for Frequency Estimation in Network Flow     | 06:00     | 15:00    | 22:00|
+| Session #1 <br> P1: MRPGA: A Genetic-Algorithm-Based In-Network Caching for Information-Centric Networking <br> P2: OBF: A Guarantee IP Lookup Performance Scheme for Flexible IP Using One Bloom Filter<br> P3: The Trapezoidal Sketch for Frequency Estimation in Network Flow   | 06:45     | 15:45    | 22:45|
+| Keynote #2 (TBD)     | 07:45     | 16:45    | 23:45|
+| Session #2 <br> P4: STIP: A New Model of Trusted Network <br> P5: End-To-End Privacy for Identity & Location with IP <br> P6: PEP-DNA: A Performance Enhancing Proxy for Deploying Network Architectures <br> P7: Speeding Up TCP with Selective Loss Prevention   | 08:25     | 17:25    | 00:25 <br> (+1)|
+| Panel Discussion  | 09:45     | 18:45    | 01:45 <br> (+1)|
 
 
 #### Rationale for the Workshop
