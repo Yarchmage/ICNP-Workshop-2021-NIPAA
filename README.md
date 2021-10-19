@@ -5,7 +5,7 @@
 ### 2nd Workshop on  
 New Internetworking Protocols, Architecture and Algorithms
 
-> Virtual Event, November 2, 2021
+> Virtual Event, November <s>2</s> 1, 2021
 
 ###### Organized by IEEE ICNP 2021
 
