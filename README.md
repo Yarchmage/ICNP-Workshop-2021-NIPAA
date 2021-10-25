@@ -2,8 +2,7 @@
 
 ![](https://nipaa21.files.wordpress.com/2021/04/icnp_logo-e1619555237206.png)
 
-### 2nd Workshop on  
-New Internetworking Protocols, Architecture and Algorithms
+### 2nd Workshop on New Internetworking Protocols, Architecture and Algorithms
 
 > Virtual Event, November <s>2</s> 1, 2021
 
