@@ -8,9 +8,8 @@
 
 ###### Organized by IEEE ICNP 2021
 
-**The CFP and submission details are hosted at EDAS.**
+**You may find the register information at [https://icnp21.cs.ucr.edu/registration.html](https://icnp21.cs.ucr.edu/registration.html).**
 
-[https://nipaa-21.edas.info/](https://nipaa-21.edas.info/)
 
 * * *
 
