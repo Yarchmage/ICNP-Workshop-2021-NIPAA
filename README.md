@@ -8,6 +8,8 @@
 
 ###### Organized by IEEE ICNP 2021
 
+**The whole workshop can be found [HERE](https://www.youtube.com/watch?v=Yve_HPlU4hc&ab_channel=ICNP2021).** 
+
 **You may find the register information at [https://icnp21.cs.ucr.edu/registration.html](https://icnp21.cs.ucr.edu/registration.html).**
 
 
